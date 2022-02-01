@@ -200,6 +200,7 @@ header {
 
 }
 
+/* underline part */
 .section-sub-heading:after {
 	display:block;
 	height:2px;
