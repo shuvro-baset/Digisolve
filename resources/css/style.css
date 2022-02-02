@@ -25,7 +25,7 @@ body {
 .clearfix {
 	zoom:1;
 }
-
+/* float clear */
 .clearfix:after {
 	content:"";
 	display:table;
