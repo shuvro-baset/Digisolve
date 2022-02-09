@@ -70,5 +70,7 @@ $(document).ready(function() {
 	}); 
 });
 
-
-sass: 
+/*
+sass: css pre processor
+	variable, nested, dry, function, extend, include
+*/
